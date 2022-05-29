@@ -2,6 +2,7 @@ opencv
 face_recognition
 tkinter
 pillow
+numpy
 
 
 
